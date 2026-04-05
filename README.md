@@ -28,7 +28,14 @@ AI-guided 6-stage interview that extracts a $3K-$10K offer from your life experi
 - High-ticket price validation (ROI-based)
 - Positioning, hook, and core messaging
 
-### 4. Business Audit System (`/chains/business-audit/`)
+### 4. AI Co-Founder MEGA Prompt (`/chains/ai-cofounder/`)
+Stop doing too much. Delete 99% of your to-do list and find the 3 moves that multiply growth.
+- 4-part mega prompt (Role, Context, Data, Activities)
+- "Ask me clarifying questions until 95% confident"
+- Mixture of Experts technique (run on 3+ LLMs simultaneously)
+- Follow-up prompts for 90-day execution plan
+
+### 5. Business Audit System (`/chains/business-audit/`)
 Evidence-based business idea validation with 15-criteria scoring.
 - Parallel research agents
 - Council framework (10 mental models)
