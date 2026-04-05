@@ -21,7 +21,14 @@ NotebookLM prompt system for creating viral presentations in 5 minutes.
 - 8-point content structure framework
 - Typography + theme specifications
 
-### 3. Business Audit System (`/chains/business-audit/`)
+### 3. High-Ticket Offer Architect (`/chains/high-ticket-offer/`)
+AI-guided 6-stage interview that extracts a $3K-$10K offer from your life experience.
+- Background discovery + skill extraction
+- Market alignment + offer architecture
+- High-ticket price validation (ROI-based)
+- Positioning, hook, and core messaging
+
+### 4. Business Audit System (`/chains/business-audit/`)
 Evidence-based business idea validation with 15-criteria scoring.
 - Parallel research agents
 - Council framework (10 mental models)
